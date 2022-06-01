@@ -1,4 +1,4 @@
-### About me  👋
+### Marcin Gruca - Java Developer 👋
 
 
 # 💻Tech Stack
